@@ -4,4 +4,4 @@
 
 
 
-Thank you to the author of the libUSB library for bringing me such a useful tool
+Thank you to the author of the libUSB library for bringing me such a useful tool！
